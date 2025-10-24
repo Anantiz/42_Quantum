@@ -34,6 +34,8 @@ Simply use [jupyter](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in the Browser
 
 Jupyter was used because qiskit is a multi-step worflow where steps are time-expensive, Jupyter helps around this problem by caching intermediate steps.
 
+The algorithms where all run both on simulator and IBM-Quantum hardware.
+
 ### Skills & Lesson learned:
 
 - The state of the industry and use cases of Quantum hardware and algorithms
